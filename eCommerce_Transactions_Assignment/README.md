@@ -13,25 +13,6 @@ This project involves analyzing an eCommerce transactions dataset to derive insi
 
 ---
 
-## Directory Structure
-
-eCommerce_Transactions_Assignment/
-├── data/
-│   ├── Customers.csv          # Customer data
-│   ├── Products.csv           # Product data
-│   ├── Transactions.csv       # Transaction data
-├── outputs/
-│   ├── Shubhang_Pareek_EDA.pdf         # EDA Report
-│   ├── Shubhang_Pareek_Lookalike.csv   # Lookalike model recommendations
-│   ├── Shubhang_Pareek_Clustering.csv  # Cluster assignments
-│   ├── Shubhang_Pareek_Clustering.pdf  # Clustering report
-├── scripts/
-│   ├── Shubhang_Pareek_EDA.ipynb       # EDA Notebook
-│   ├── Shubhang_Pareek_Lookalike.ipynb # Lookalike model Notebook
-│   ├── Shubhang_Pareek_Clustering.ipynb # Clustering Notebook
-├── README.md                 # Project instructions and details
-
----
 
 ## Tasks and Deliverables
 
@@ -90,8 +71,8 @@ jupyter notebook
 
 Author
 	•	Name: Shubhang Pareek
-	•	LinkedIn: Shubhang Pareek LinkedIn
-	•	GitHub: Shubhang Pareek GitHub
+	•	LinkedIn: https://www.linkedin.com/in/shubhang-pareek-7631b0222/
+	•	GitHub: https://github.com/ShubhangPareek
 
 Acknowledgments
 
